@@ -50,7 +50,7 @@ A live demo will be available soon. [Add your link here]
 
 ## Screenshots
 
-![Homepage Screenshot](acc_carserv.png)
+![Homepage Screenshot](img/acc_carserv.png)
 *Homepage of CarServ - Car Service Reservation Website*
 
 ## Credits
