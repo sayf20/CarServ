@@ -45,16 +45,14 @@ CarServ is a web application for car service and repair businesses, allowing cus
    - Access the site via `http://localhost/<project-folder>`
    - Use the admin panel at `admin-manage-booking.php` to manage reservations
 
-## Deployment
-- **Vercel:** Not supported (Vercel does not run PHP). Use a traditional PHP hosting provider.
-- **Recommended Hosts:** OVH, Hostinger, 000webhost, or any LAMP-compatible host.
-
-## Security Note
-- Do **not** commit real database credentials to public repositories. Use environment variables or a config template for production.
+## Live Demo
+A live demo will be available soon. [Add your link here]
 
 ## Screenshots
-_Add screenshots here_
+
+![Homepage Screenshot](acc_carserv.png)
+*Homepage of CarServ - Car Service Reservation Website*
 
 ## Credits
 - Bootstrap, jQuery, and all third-party libraries used are credited to their respective authors.
-- Developed by [Your Name]. 
+- Developed by Saifeddine Mosrati. 
