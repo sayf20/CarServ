@@ -45,8 +45,7 @@ CarServ is a web application for car service and repair businesses, allowing cus
    - Access the site via `http://localhost/<project-folder>`
    - Use the admin panel at `admin-manage-booking.php` to manage reservations
 
-## Live Demo
-A live demo will be available soon. [Add your link here]
+## Live Demo[https://mzpro.fr/production/carserv-1.0.0/]
 
 ## Screenshots
 
